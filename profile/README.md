@@ -17,4 +17,4 @@
 | :---: | :---: | :---: | 
 | <img width="180px" src="https://avatars.githubusercontent.com/u/59831262?v=4" /> | <img width="180px" src="https://avatars.githubusercontent.com/u/76805879?v=4" /> | <img width="180px" src="https://avatars.githubusercontent.com/u/102780858?v=4"/> |
 |   [@eekrwl](https://github.com/eekrwl)   |    [@jung0115](https://github.com/jung0115)  | [@GomHyeok](https://github.com/GomHyeok)  |
-| Backend(Spring) | Android(Kotlin) | iOS(Swift) |
+| Backend(Spring) | Android(Kotlin) | Leader, iOS(Swift) |
