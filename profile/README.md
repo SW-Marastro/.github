@@ -19,3 +19,15 @@
 | <img width="180px" src="https://avatars.githubusercontent.com/u/59831262?v=4" /> | <img width="180px" src="https://avatars.githubusercontent.com/u/76805879?v=4" /> | <img width="180px" src="https://avatars.githubusercontent.com/u/102780858?v=4"/> |
 |   [@eekrwl](https://github.com/eekrwl)   |    [@jung0115](https://github.com/jung0115)  | [@GomHyeok](https://github.com/GomHyeok)  |
 | Backend(Spring) | Android(Kotlin) | Leader, iOS(Swift) |
+
+---
+
+### 🛠️ Tech Stack
+**AOS**  
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="android" height="24"/> </a> <!-- 안드로이드 -->
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white" alt="kotlin" height="24"/> </a> <!-- Kotlin -->  
+**iOS**  
+<a href="https://developer.apple.com/kr/swift" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="24"/> </a> <!-- Swift -->  
+**Backend**  
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="http://img.shields.io/badge/-spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot" height="24"/> </a> <!-- SpringBoot -->
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" height="24"/> </a> <!-- Java -->  
