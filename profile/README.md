@@ -1,11 +1,11 @@
-## 🥘 SW마라스트로
+## 🎀 마이꾸미
 ```
 📆 2024.04 ~
 ✨ SW Maestro 15th
 ```
 
 <div align="center"> 
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSW-Marastro&count_bg=%23549AC4&title_bg=%23305262&icon=&icon_color=%23E7E7E7&title=SW+Marastro&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSW-Marastro&count_bg=%23DF8FF7&title_bg=%239B58B0&icon=&icon_color=%23E7E7E7&title=마이꾸미&edge_flat=false"/></a>
 </div>
 
 ---
