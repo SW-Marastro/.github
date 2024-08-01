@@ -54,6 +54,11 @@
 |   [@eekrwl](https://github.com/eekrwl)   |    [@jung0115](https://github.com/jung0115)  | [@GomHyeok](https://github.com/GomHyeok)  |
 | Backend(Spring) | Android(Kotlin) | Leader, iOS(Swift) |
 
+#### Extra Member
+| 이연재 |
+| :---: | 
+| Design(Figma) |
+
 ---
 
 ### 🛠️ Tech Stack
