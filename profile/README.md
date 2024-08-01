@@ -59,6 +59,12 @@
 | :---: | 
 | Design(Figma) |
 
+### 🚦Team Rules
+- [x] 9:30am까지 센터 출근
+- [x] 주중에는 매일 출근, 주말은 필요시 자유롭게 출근
+- [x] 2주 단위 Sprint. Spint 시작할 때 Task별 MD 설정
+- [x] [Git Convention Rules](https://github.com/SW-Marastro/MyKkumi-Android/wiki/%F0%9F%8C%B1-Git-Convention)
+
 ---
 
 ### 🛠️ Tech Stack
