@@ -19,6 +19,16 @@
 '마이꾸미'는 취미 생활에 다양한 아이템을 구매하는 사람들이 더욱 즐겁게 취미를 즐길 수 있기를 바라는 마음에서 등장하게 되었습니다.  
 나의(**MY**) 인생을 **꾸미**는 취미, 그것을 즐기는 모습과 제품 정보까지 서로 공유하며 더 깊게 파고들 수 있는 환경을 제공해주고자 합니다.  
 
+<div align="center"> 
+  <br/>
+  <a href="https://play.google.com/store/apps/details?id=com.marastro.mykkumi.android">
+    <img width="21%" alt="play store" src="https://github.com/user-attachments/assets/29f0c9a3-44a8-40b1-b6eb-c056e6e421f1">
+  </a>
+  <a href="https://apps.apple.com/kr/app/%EB%A7%88%EC%9D%B4%EA%BE%B8%EB%AF%B8-mykkumi/id6661018655">
+    <img width="21%" alt="app store" src="https://github.com/user-attachments/assets/99541c2a-7ab1-4d46-9222-0e8b53651c70">
+  </a>
+</div>
+
 ---
 
 ### 😎 템빨 시대, 취미에 쓰는 돈은 아깝지 않다
