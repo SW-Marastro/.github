@@ -1,4 +1,4 @@
-<!--![중간발표-001](https://github.com/user-attachments/assets/09faed84-1f1e-42a7-87a3-483035538c6d)-->
+![마이꾸미 Cover](https://github.com/user-attachments/assets/809ed757-d5e3-4f29-8ba8-5b905aa01cf0)
 
 ## 🎀 마이꾸미
 ```
